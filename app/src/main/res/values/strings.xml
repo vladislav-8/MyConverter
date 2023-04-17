@@ -2,4 +2,24 @@
     <string name="app_name">My Converter</string>
     <string name="from">From</string>
     <string name="to">To</string>
+
+    <string-array name="currencies">
+        <item>EUR</item>
+
+        <item>USD</item>
+        <item>TRY</item>
+        <item>GBP</item>
+        <item>CNY</item>
+
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>USD</item>
+
+        <item>EUR</item>
+        <item>TRY</item>
+        <item>GBP</item>
+        <item>CNY</item>
+
+    </string-array>
 </resources>
